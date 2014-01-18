@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mine4aCause]]></title>
+  <link href="http://mine4acause.github.io/atom.xml" rel="self"/>
+  <link href="http://mine4acause.github.io/"/>
+  <updated>2014-01-18T10:02:30-05:00</updated>
+  <id>http://mine4acause.github.io/</id>
+  <author>
+    <name><![CDATA[Leo O'Donnell']]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
